@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: "10-718: Machine Learning in Practice"
+
+tags:
+  - ML
+  - Explainability
+  - Bias
